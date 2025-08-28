@@ -69,3 +69,12 @@ This will write a configuration entries in `~/.gitconfig`
 
 ## 4. Git push
 To log in first time and good to go.
+
+# Authentication through SSH
+## Generate a ssh key
+use `ssh-keygen`
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+## Add the key to git
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
