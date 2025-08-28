@@ -26,5 +26,5 @@ Applications and configurations.
 - [NodeJs](https://nodejs.org/en) - Runtime for web development
 - [NPM](https://www.npmjs.com/) - Node Package Manager
 - [Postman](https://flathub.org/apps/com.getpostman.Postman) - API Management and testing
-- [MySQL](https://docs.fedoraproject.org/en-US/quick-docs/installing-mysql-mariadb/#_install_from_oracle_mysql) - Mysql server
-- [MYSQL Workbench](https://github.com/mysql/mysql-workbench) - Visual tool for database management
+- [MySQL](https://dev.mysql.com/downloads/repo/yum/) - Mysql server
+- [MYSQL Workbench](https://dev.mysql.com/downloads/workbench/) - Visual tool for database management
