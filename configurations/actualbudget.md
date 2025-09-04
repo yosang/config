@@ -70,3 +70,6 @@ Run it
 ```sh
 docker run --pull=always --restart=unless-stopped -d -p 5006:5006 -v /home/yosang/.sync/.db/actual:/data:Z actualbudget/actual-server:latest
 ```
+
+# Updating
+Whenever an update is released, we stop and delete the container and deploy the image again, with `--pull=always`. This will pull the `diff` from the remote and update our `cached` image.
