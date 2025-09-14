@@ -19,7 +19,12 @@ Applications and configurations.
 ### Tools
 - [Git](https://git-scm.com/) - Version Control
 - [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth configured with [KeePassXC](https://github.com/keepassxreboot/keepassxc) secretservice integration
-- [VSCode](https://code.visualstudio.com/) - IDE for code and notes
+- [VSCode](https://code.visualstudio.com/) - IDE for code and notes. - `Ctrl + P > ext install [extension_identifier]` to install vscode extension.
+    - `tomoki1207.pdf` - Extension that that allows to view pdf files in vscode.
+    - `esbenp.prettier-vscode` - Extension that formats different programming languages.
+    - `ritwickdey.liveserver` - Extension that servers a https server for the filesystem of the project.
+    - `fabiospampinato.vscode-todo-plus` - Extension that allows integration of todo management within vscode.
+    - `wayou.vscode-todo-highlight` - Extention that allows keywords like TODO, FIXME to be easily found throughtout code.
 - [Docker](https://docs.fedoraproject.org/en-US/quick-docs/installing-docker/) - Containerization of servers
 - [Flatpak](https://flatpak.org/) - Containerization of sandboxed apps
 - [Flatseal](https://github.com/tchx84/Flatseal) - Flatpak permission management
