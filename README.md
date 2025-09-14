@@ -23,7 +23,7 @@ Applications and configurations.
     - `tomoki1207.pdf` - Extension that that allows to view pdf files in vscode.
     - `esbenp.prettier-vscode` - Extension that formats different programming languages.
     - `ritwickdey.liveserver` - Extension that servers a https server for the filesystem of the project.
-    - `fabiospampinato.vscode-todo-plus` - Extension that allows integration of todo management within vscode.
+    - [fabiospampinato.vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Extension that allows integration of todo management within vscode.
     - `wayou.vscode-todo-highlight` - Extention that allows keywords like TODO, FIXME to be easily found throughtout code.
 - [Docker](https://docs.fedoraproject.org/en-US/quick-docs/installing-docker/) - Containerization of servers
 - [Flatpak](https://flatpak.org/) - Containerization of sandboxed apps
