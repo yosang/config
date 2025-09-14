@@ -1,0 +1,36 @@
+To create a project we just simply add a `:` at the end:
+    ☐ To create a task we just simply press `Alt+Enter`
+    ☐ There is some `grayed` out statistic to the right of the project name, that shows `count` of tasks etc..
+    ☐ It will also show some time statistics if we give a task an estimated time with `@1h`
+    
+Timekeeping:
+    ☐ We can add estimates: Lets say this one will take exactly @2h
+        ☐ Another way is by using natural language @est(1 day and 2 hours)
+    ✔ To complete a task we can press `Alt+D` , press again to undo it @done(25-09-14 21:28)
+    ☐ To start a a task we can press `Alt-S`, press again to stop it.
+    ☐ And to cancel we simply press `Alt-C`, press agian to undo it
+    We can test projects inside other projects aswell:
+        ☐ Just like this
+        ☐ Also we can fold the
+
+Tags:
+    ☐ We can add taks using the `@`, which we used earlier to estimate a time, but can also be used to create tags @this-is-a-tag
+    ☐ Theres some special tags like @critical @low @high @today
+
+Embedded todos:
+    Embedded todos are TODOS that are spread across the codebase with uppercase TODO or FIXME
+    We can create a new todo file for these with `Shift + Ctrl + P` and search for `Todo: Open Embedded`
+    These will import the embedded todos and a link to that specific file aswell
+    Embedded todos gets its own view in the `activity bar view`
+
+Statistics:
+    We can see how many todos are completed and how many are lefts and also a precentage at the lower bar
+    For this file, it should say `1/12 (8%)`
+    By hovering, it will provide more info, such as `11 Pending, 1 Done, 0 Cancelled`
+
+Timekeeping:
+    When we `start` a taks, a timer will show at the bottom bar
+        By hovering it will show exactly what task its recording
+        By clicking on it it will put the mouse focus on exactly that task
+        If we happen to start another task, while a previous task is running, the previous task will pause and a new timer will start running
+            When we finish that task, the previous timer will continue
