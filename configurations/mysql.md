@@ -91,3 +91,12 @@ CREATE TABLE Employees (
     HireDate DATE
 );
 ```
+
+# mysqldump
+
+- Dump a single database: `mysqldump -u [username] -p [database_name] > backup.sql`
+- Dump multiple databases: `mysqldump -u [username] -p -B [database1] [database2] > backup.sql`
+- Dump only the schema: `mysqldump -u [username] -p -d [database_name] > schema.sql`
+- Dump only the data: `mysqldump -u [username] -p -t [database_name] > data.sql `
+
+Privileges: The user running mysqldump needs appropriate privileges, such as SELECT, for the tables being dumped.
