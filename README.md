@@ -1,7 +1,7 @@
 # About
 Applications and configurations.
 
-### General
+## General
 - [Thunderbird](https://rpmfind.net/linux/rpm2html/search.php?query=thunderbird&submit=Search+...) - Email client
 - [Firefox](https://rpmfind.net/linux/rpm2html/search.php?query=firefox&submit=Search+...) - Internet Browser
     - [KeePass Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/keepassxc-browser/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - KeePass exntension for Firefox
@@ -14,10 +14,9 @@ Applications and configurations.
 - [KeePassDX](https://github.com/Kunzisoft/KeePassDX) - password manager for Android
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Password manager for Desktop
 - [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/) - Physical key for another extra layer of security
-- [gtimelog](https://github.com/gtimelog/gtimelog) - Simple time tracker
 - [pup](https://github.com/ericchiang/pup) - HTML parser for extracting specific elements of pages using [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors).
-- glow - Pretty format MD files in the terminal
-### Tools
+
+## Tools
 - [Git](https://git-scm.com/) - Version Control
 - [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth configured with [KeePassXC](https://github.com/keepassxreboot/keepassxc) secretservice integration
 - [VSCode](https://code.visualstudio.com/) - IDE for code and notes. - `Ctrl + P > ext install [extension_identifier]` to install vscode extension.
