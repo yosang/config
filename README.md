@@ -15,6 +15,8 @@ Applications and configurations.
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Password manager for Desktop
 - [YubiKey](https://www.yubico.com/no/product/yubikey-5-series/yubikey-5c-nfc/) - Physical key for another extra layer of security
 - [pup](https://github.com/ericchiang/pup) - HTML parser for extracting specific elements of pages using [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors).
+- glow - visualize markdown in the cli
+- pandoc - convert documents (i.e pandoc myfile.md -o myfile.html)
 
 ## Tools
 - [Git](https://git-scm.com/) - Version Control
