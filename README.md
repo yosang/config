@@ -17,7 +17,9 @@ Applications and configurations.
 - [pup](https://github.com/ericchiang/pup) - HTML parser for extracting specific elements of pages using [CSS selectors](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors).
 - glow - visualize markdown in the cli
 - pandoc - convert documents (i.e pandoc myfile.md -o myfile.html)
-
+- [md-toc](https://pypi.org/project/md-toc/2.0.0/#description) - generate table of contents from any md files
+    - install with pip install md-toc
+    - usage: `md_toc github readme.md`
 ## Tools
 - [Git](https://git-scm.com/) - Version Control
 - [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager) - OAuth configured with [KeePassXC](https://github.com/keepassxreboot/keepassxc) secretservice integration
